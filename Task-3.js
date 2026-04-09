@@ -72,9 +72,9 @@ let age1 = prompt("Enter your age");
 let salary1 = prompt("Enter your monthly salary");
 let loan1 = prompt("Enter your loan amount");
 
-console.log("Before conversion:", typeof(age1));
-console.log("Before conversion:", typeof(salary1));
-console.log("Before conversion:", typeof(loan1));
+console.log("Before Conversion:", typeof(age1));
+console.log("Before Conversion:", typeof(salary1));
+console.log("Before Conversion:", typeof(loan1));
 
 
 let age2 = Number(age1);
